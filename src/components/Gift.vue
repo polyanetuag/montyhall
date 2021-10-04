@@ -25,20 +25,20 @@ export default {
   .gift-top {
     width: 100px;
     height: 25px;
-    background: #7aa944;
+    background: #1E90FF;
   }
 
   .gift-body {
     width: 90px;
     height: 60px;
-    background: #5c7e32;
+    background: #0000CD;
   }
 
   .gift-tie-1 {
     position: absolute;
     width: 15px;
     height: 85px;
-    background: red;
+    background: #FF1493;
   }
 
   .gift-tie-2 {
@@ -46,7 +46,7 @@ export default {
     top: 40px;
     width: 90px;
     height: 15px;
-    background: red;
+    background:	#FF1493;
   }
 
 </style>
